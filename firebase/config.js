@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyDMN-qASAoWNhncdKCWwgQvX_iRJYP-Zc4",
-  authDomain: "restaurant-dc4b3.firebaseapp.com",
-  projectId: "restaurant-dc4b3",
-  storageBucket: "restaurant-dc4b3.appspot.com",
-  messagingSenderId: "151109757557",
-  appId: "1:151109757557:web:c880a8840d1df6a1e7663c"
+  apiKey: "AIzaSyBYV8D5azaDbu5KiRvy4AjZRsFv6zZVOMs",
+  authDomain: "gym-e-535e5.firebaseapp.com",
+  projectId: "gym-e-535e5",
+  storageBucket: "gym-e-535e5.appspot.com",
+  messagingSenderId: "460760932367",
+  appId: "1:460760932367:web:fbaa98b45209ecdb77c37a"
 };
 
    export default firebaseConfig;
